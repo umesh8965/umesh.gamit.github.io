@@ -1268,7 +1268,7 @@ p.skill-circle-text {
 .contact-form textarea {
     border: 0;
     border-bottom: 2px solid #fff;
-    padding-top: 13px;
+    padding-top: 0;
     padding-bottom: 13px;
     margin: 10px 0;
     height: 28px;
